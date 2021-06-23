@@ -8,3 +8,9 @@
 - wheel alignment
 - new engine thermostat
 - alternated wheels (every 10K km?)
+
+# At 119385 KM since 23 June 2021
+- crankshaft pulley replacement
+- alternator belt replacement
+- power steering belt replacement
+- A/C belt replacement
