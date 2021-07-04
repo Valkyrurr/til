@@ -5,7 +5,7 @@
 - [x] April
 - [x] May
 - [x] June [04 June 2021]
-- [ ] July
+- [x] July [04 July 2021] Thru GCash
 - [ ] August
 - [ ] September
 - [ ] October
