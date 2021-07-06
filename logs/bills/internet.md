@@ -4,7 +4,7 @@
 - [x] March
 - [x] April
 - [x] May [08 June 2021]
-- [ ] June
+- [x] June [06 July 2021]
 - [ ] July
 - [ ] August
 - [ ] September
