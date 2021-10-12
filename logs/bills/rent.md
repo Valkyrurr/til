@@ -8,7 +8,7 @@
 - [x] July [04 July 2021] Thru GCash
 - [x] August [05 August 2021] Thru GCash -- nalimtan
 - [x] September [06 September 2021] Thru GCash -- nalimtan
-- [ ] October
+- [x] October
 - [ ] November
 - [ ] December
 
