@@ -7,7 +7,7 @@
 - [x] June [06 July 2021]
 - [x] July
 - [X] August
-- [ ] September
+- [x] September
 - [ ] October
 - [ ] November
 - [ ] December
