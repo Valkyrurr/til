@@ -4,10 +4,10 @@
 - [x] March [31 May 2021]
 - [x] April [31 May 2021]
 - [x] May [04 June 2021]
-- [ ] June
-- [ ] July
-- [ ] August
-- [ ] September
+- [x] June
+- [x] July
+- [x] August
+- [x] September [June-September @ 20 October 2021]
 - [ ] October
 - [ ] November
 - [ ] December
