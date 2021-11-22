@@ -20,3 +20,8 @@
 - radiator fan replacement
 - crankshaft pulley replacement
 - door handle replacement
+
+# At xxxxxx KM since 18 November 2021
+- radiator hose replacement
+- radiator fan fuse upgrade to 30W
+- throttle body cleaning
