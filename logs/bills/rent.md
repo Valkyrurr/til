@@ -10,7 +10,7 @@
 - [x] September [06 September 2021] Thru GCash -- nalimtan
 - [x] October
 - [x] November [04 November 2021] Thru GCash
-- [ ] December
+- [x] December [04 December 2021] Thru GCash
 
 NOTES:
 - Pay every 4th of the current month.
